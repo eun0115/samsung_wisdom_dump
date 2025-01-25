@@ -1,0 +1,14 @@
+# wisdomdx-user 11 RP1A.200720.012 P205DXS6CWA2 release-keys
+- manufacturer: samsung
+- platform: universal7904
+- codename: wisdom
+- flavor: wisdomdx-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: P205DXS6CWA2
+- tags: release-keys
+- fingerprint: samsung/wisdomdx/wisdom:11/RP1A.200720.012/P205DXS6CWA2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: wisdomdx-user-11-RP1A.200720.012-P205DXS6CWA2-release-keys
+- repo: samsung_wisdom_dump
