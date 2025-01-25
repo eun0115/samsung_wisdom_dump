@@ -1,0 +1,2 @@
+com.amazon.appmanager
+co.sitic.pp

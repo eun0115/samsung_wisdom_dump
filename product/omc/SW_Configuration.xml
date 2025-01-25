@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-P205</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OLM</MultiCode>
+    <CustomerDataSet>
+        <CSCName>P205OLM</CSCName>
+        <CSCVersion>6CWA2</CSCVersion>
+        <NbCustomer>9</NbCustomer>
+        <CustomerData src="/Customer/THL/customer.xml" />
+        <CustomerData src="/Customer/XME/customer.xml" />
+        <CustomerData src="/Customer/XTC/customer.xml" />
+        <CustomerData src="/Customer/CPW/customer.xml" />
+        <CustomerData src="/Customer/MYM/customer.xml" />
+        <CustomerData src="/Customer/CAM/customer.xml" />
+        <CustomerData src="/Customer/LAO/customer.xml" />
+        <CustomerData src="/Customer/XXV/customer.xml" />
+        <CustomerData src="/Customer/BRI/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>BRI</CustomerCode>
+            <Version>SAOMC_SM-P205_OLM_BRI_RR_0010</Version>
+            <CustomerEdition>ED0008</CustomerEdition>
+            <Packages>
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>CAM</CustomerCode>
+            <Version>SAOMC_SM-P205_OLM_CAM_RR_0006</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>CPW</CustomerCode>
+            <Version>SAOMC_SM-P205_OLM_CPW_QQ_0001</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>LAO</CustomerCode>
+            <Version>SAOMC_SM-P205_OLM_LAO_RR_0007</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+            <Packages>
+                <package name="com.samsung.android.app.camera.sticker.local_csc.preload" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>MYM</CustomerCode>
+            <Version>SAOMC_SM-P205_OLM_MYM_RR_0008</Version>
+            <CustomerEdition>ED0006</CustomerEdition>
+            <Packages>
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>THL</CustomerCode>
+            <Version>SAOMC_SM-P205_OLM_THL_RR_0008</Version>
+            <CustomerEdition>ED0008</CustomerEdition>
+            <Packages>
+                <package name="com.samsung.th.galaxyappcenter" />
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XME</CustomerCode>
+            <Version>SAOMC_SM-P205_OLM_XME_RR_0008</Version>
+            <CustomerEdition>ED0007</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XTC</CustomerCode>
+            <Version>SAOMC_SM-P205_OLM_XTC_RR_0008</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+            <Packages>
+                <package name="com.srph.emergency321" />
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>XXV</CustomerCode>
+            <Version>SAOMC_SM-P205_OLM_XXV_RR_0010</Version>
+            <CustomerEdition>ED0007</CustomerEdition>
+            <Packages>
+                <package name="com.samsungvietnam.quatanggalaxy" />
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+            </Packages>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>
